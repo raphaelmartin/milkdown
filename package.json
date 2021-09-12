@@ -1,5 +1,5 @@
 {
-  "name": "milkdown-vanilla-setup",
+  "name": "milkdown",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,15 +7,15 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@milkdown/core": "4.10.0",
-    "@milkdown/plugin-emoji": "4.10.0",
+    "@milkdown/core": "4.11.2",
+    "@milkdown/plugin-emoji": "4.11.2",
     "@milkdown/plugin-history": "4.11.2",
-    "@milkdown/preset-commonmark": "4.10.0",
-    "@milkdown/theme-nord": "4.10.0",
-    "vite": "^2.4.4"
+    "@milkdown/preset-commonmark": "4.11.2",
+    "@milkdown/theme-nord": "4.11.2",
+    "vite": "2.5.6"
   },
   "devDependencies": {
-    "typescript": "4.2.3"
+    "typescript": "4.4.3"
   },
   "keywords": []
 }
